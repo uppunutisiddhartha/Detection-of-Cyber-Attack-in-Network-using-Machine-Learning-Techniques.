@@ -1,4 +1,5 @@
-# -Detection-of-Cyber-Attack-in-Network-using-Machine-Learning-Techniques.-
+# -Detection-of-Cyber-Attack-in-Network-using-Machine-Learning-Techniques.
+This is an ML project named Detection of Cyber Attack in Network using Machine Learning Techniques. We used machine learning algorithms like Logistic Regression, Random Forest, and SVM to detect cyber-attacks such as phishing, DDoS, etc., by analyzing network traffic patterns to enhance security.
 
 Flask==1.1.2
 gunicorn==19.9.0
